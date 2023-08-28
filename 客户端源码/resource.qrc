@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Resource/img/unknownChunk.png</file>
+        <file>Resource/img/explodedBomb.png</file>
+        <file>Resource/img/safeChunk.png</file>
+        <file>Resource/img/unMinedBomb.png</file>
+        <file>Resource/img/flagBomb.png</file>
+        <file>Resource/img/flagQuestion.png</file>
+        <file>Resource/img/background.png</file>
+        <file>Resource/img/downChunk.png</file>
+        <file>Resource/img/mainBackground.jpg</file>
+        <file>Resource/img/settingBackground.jpg</file>
+        <file>Resource/img/game.ico</file>
+        <file>Resource/img/safeBomb.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>Resource/audio/BombExplosionSound.wav</file>
+        <file>Resource/audio/rightClick.wav</file>
+        <file>Resource/audio/Victory.wav</file>
+        <file>Resource/audio/doubleClickFailed.wav</file>
+    </qresource>
+</RCC>

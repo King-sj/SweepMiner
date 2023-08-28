@@ -1,0 +1,3 @@
+windows 版本需>=10
+由于默认连接的IP是笔者的服务器IP，因此需要测试得修改MainWindow.h下的IP重新编译后才能运行net模式
+smtp需要网易163邮箱才能使用,可以直接修改服务端下的config.ini文件来实现
